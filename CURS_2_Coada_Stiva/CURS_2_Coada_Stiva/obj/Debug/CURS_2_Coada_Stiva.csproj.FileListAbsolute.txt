@@ -1,0 +1,7 @@
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\bin\Debug\CURS_2_Coada_Stiva.exe.config
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\bin\Debug\CURS_2_Coada_Stiva.exe
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\bin\Debug\CURS_2_Coada_Stiva.pdb
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\obj\Debug\CURS_2_Coada_Stiva.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\obj\Debug\CURS_2_Coada_Stiva.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\obj\Debug\CURS_2_Coada_Stiva.exe
+C:\Users\Daria\source\repos\Metode-Avansate-Programare\CURS_2_Coada_Stiva\CURS_2_Coada_Stiva\obj\Debug\CURS_2_Coada_Stiva.pdb
