@@ -8,45 +8,61 @@ namespace CURS_2_Coada_Stiva
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Queue()
         {
             Queue myqueue = new Queue();
 
-            Console.WriteLine("Type the queue lenght: ");
+            Console.Write("Type the queue lenght: ");
             int queue_lenght = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Insert elements of the queue:");
-            for (int i=0;i<queue_lenght;i++)
+            Console.Write("Insert elements of the queue: ");
+            string s = Console.ReadLine();
+            string[] values = s.Split(' ');
+
+            for (int i = 0; i < queue_lenght; i++)
             {
-                int number = Convert.ToInt32(Console.ReadLine()); 
+                int number = int.Parse(values[i]);
                 myqueue.Push(number);
             }
 
-            Console.WriteLine();
+
+            Console.Write("The queue is: ");
             myqueue.View();
 
             Console.WriteLine();
+            Console.WriteLine();
 
-            Console.WriteLine("Type 1 for adding new elements \n Type 0 to delete elements." +
-                "\n To end the process type any key (different from 1 or 0)");
+            Console.WriteLine("Type '1' to add new elements.\nType '0' to delete elements." +
+                "\n----- To end the process type any other key. -----");
 
-            int action = Convert.ToInt32(Console.ReadLine());
-            while(action==0 || action==1)
+            Console.WriteLine();
+            Console.WriteLine();
+
+            int action;
+            do
             {
-                if(action==1)
+                Console.Write("Instruction: ");
+                action = Convert.ToInt32(Console.ReadLine());
+                if (action == 1)
                 {
-                    Console.WriteLine("Insert the new element: ");
+                    Console.Write("Insert the new element: ");
                     int new_element = Convert.ToInt32(Console.ReadLine());
                     myqueue.Push(new_element);
+                    Console.Write("*** New queue *** ");
                     myqueue.View();
                 }
-                else
+                if (action == 0)
                 {
                     myqueue.Pop();
+                    Console.Write("*** New queue *** ");
                     myqueue.View();
                 }
-            }
-
+                Console.WriteLine(" ");
+            } while (action == 1 || action == 0);
+        }
+        static void Main(string[] args)
+        {
+            Queue();
         }
     }
 }
