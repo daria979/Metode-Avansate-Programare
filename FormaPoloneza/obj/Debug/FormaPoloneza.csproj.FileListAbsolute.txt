@@ -1,0 +1,16 @@
+C:\Users\Daria\Desktop\FormaPoloneza\bin\Debug\FormaPoloneza.in
+C:\Users\Daria\Desktop\FormaPoloneza\bin\Debug\FormaPoloneza.exe.config
+C:\Users\Daria\Desktop\FormaPoloneza\bin\Debug\FormaPoloneza.exe
+C:\Users\Daria\Desktop\FormaPoloneza\bin\Debug\FormaPoloneza.pdb
+C:\Users\Daria\Desktop\FormaPoloneza\obj\Debug\FormaPoloneza.csprojAssemblyReference.cache
+C:\Users\Daria\Desktop\FormaPoloneza\obj\Debug\FormaPoloneza.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\FormaPoloneza\obj\Debug\FormaPoloneza.exe
+C:\Users\Daria\Desktop\FormaPoloneza\obj\Debug\FormaPoloneza.pdb
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\bin\Debug\FormaPoloneza.in
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\bin\Debug\FormaPoloneza.exe.config
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\bin\Debug\FormaPoloneza.exe
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\bin\Debug\FormaPoloneza.pdb
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\obj\Debug\FormaPoloneza.csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\obj\Debug\FormaPoloneza.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\obj\Debug\FormaPoloneza.exe
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\FormaPoloneza\obj\Debug\FormaPoloneza.pdb
