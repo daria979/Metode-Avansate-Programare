@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[2021][EXP_MAP]Trip_Daria [01]", "[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria [01].csproj", "{72B543B7-D195-4E19-B267-466AAC7EE690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B543B7-D195-4E19-B267-466AAC7EE690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B543B7-D195-4E19-B267-466AAC7EE690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B543B7-D195-4E19-B267-466AAC7EE690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B543B7-D195-4E19-B267-466AAC7EE690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE479C80-EE66-4297-B97E-24753DD98770}
+	EndGlobalSection
+EndGlobal

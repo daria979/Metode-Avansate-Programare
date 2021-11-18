@@ -1,0 +1,7 @@
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\bin\Debug\[2021][EXP_MAP]Trip_Daria.exe.config
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\bin\Debug\[2021][EXP_MAP]Trip_Daria.exe
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\bin\Debug\[2021][EXP_MAP]Trip_Daria.pdb
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\obj\Debug\[2021][EXP_MAP]Trip_Daria [01].csprojAssemblyReference.cache
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\obj\Debug\[2021][EXP_MAP]Trip_Daria [01].csproj.CoreCompileInputs.cache
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\obj\Debug\[2021][EXP_MAP]Trip_Daria.exe
+C:\Users\Daria\Source\Repos\Metode-Avansate-Programare\[2021][EXP_MAP]Trip_Daria\[2021][EXP_MAP]Trip_Daria\obj\Debug\[2021][EXP_MAP]Trip_Daria.pdb
